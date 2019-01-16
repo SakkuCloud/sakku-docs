@@ -8,7 +8,7 @@ Javad Samiee
 
 ## Summary
 
-WordPress Themes for use as building sakku documentaions.Tested with WordPress 5.0+
+WordPress Theme for use as building sakku documentaions.Tested with WordPress 5.0+
 
 ## Installation Steps
 
