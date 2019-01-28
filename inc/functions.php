@@ -74,3 +74,4 @@ function sakku_new_excerpt_more() {
 	return '';
 }
 add_filter('excerpt_more', 'sakku_new_excerpt_more');
+
